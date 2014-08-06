@@ -12,6 +12,6 @@ To make your icon look beautiful everywhere, make a PNG and put it in this direc
 
 e.g. 120.png, 192.png etc.
 
-...and don't forget your **favicon.ico**!
+...and don't forget your **favicon.ico**! ([This tool](http://www.convertico.com/) is handy)
 
 This is, of course, absurd - so check index.html and remove the ones you don't need.
