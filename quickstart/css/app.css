@@ -1,0 +1,57 @@
+/* If you want a custom font */
+/*body {
+  font-family: 'FontName', sans-serif;
+}*/
+
+/* If you want to customise link colours */
+/*a {
+  color: #colour;
+}
+a:focus,
+a:hover,
+a:active {
+  color: #colour;
+  text-decoration: none;
+}*/
+
+.pull-right {
+  float: right;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: " ";
+}
+.clearfix:after {
+  clear: both;
+}
+
+/* This is the CSS for the "standard" container and header, feel free to remove/change */
+.container {
+  margin: 0 auto 30px;
+  max-width: 100%;
+  width: 800px;
+  padding: 0 20px;
+}
+
+.header {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 400px) {
+  .header h1 {
+    font-size: 20px;
+    line-height: 54px;
+  }
+}
+
+.header img {
+  height: 70px;
+  float: left;
+  margin: 5px 20px 5px 5px;
+}
+
+.header .reportbug {
+  margin-top: 25px;
+}
