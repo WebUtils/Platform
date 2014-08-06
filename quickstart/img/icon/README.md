@@ -8,9 +8,9 @@ To make your icon look beautiful everywhere, make a PNG and put it in this direc
 * 128 x 128 px
 * 150 x 150 px
 * 152 x 152 px
-* 192 x 192 px
+* 196 x 196 px
 
-e.g. 120.png, 192.png etc.
+e.g. 120.png, 196.png etc.
 
 ...and don't forget your **favicon.ico**! ([This tool](http://www.convertico.com/) is handy)
 
