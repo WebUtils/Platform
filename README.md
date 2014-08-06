@@ -8,11 +8,11 @@ WebUtils is a project to make great apps for the mobile web. Browsers on mobile 
 
 ## Request an app!
 
-Use the Github Issues on the Platform project ([here](https://github.com/WebUtils/Platform/issues)) to request new apps. Please provide some content to your suggestion, so it can form the basis of a spec if your idea is picked up!
+Use the Github Issues on the Platform project ([here](https://github.com/WebUtils/Platform/issues)) to request new apps. Please provide some content to your suggestion, so it can form the basis of a spec if your idea is picked up! Please also prefix the title with "Request: " and tag it "request-app" so we can find it more easily.
 
 ## Build your own app
 
-You don't need to use the WebUtils platform to build your own app. But it's cool if you do! We're here as a helping hand to kick-start things a bit. If you prefer to do something different then do so by all means. [Drop us a note](https://github.com/WebUtils/Platform/issues) to let us know you have built something cool!
+You don't need to use the WebUtils platform to build your own app. But it's cool if you do! We're here as a helping hand to kick-start things a bit. If you prefer to do something different then do so by all means. [Leave a note on the wiki](https://github.com/WebUtils/Platform/wiki) to let us know you have built something cool!
 
 ## Philisophy
 
@@ -28,6 +28,8 @@ Here are some more specific principles I will apply to WebUtils apps:
 * Build for the edge. Prove what's possible and let the slow browser manufacturers catch up.
 * Use other people's APIs over building your own.
 * Contribute to open-source where possible.
+
+(We're still working through what we're going to do for offline support, as this is a bit of a half-way house in the browser world at the moment. But look out for updated guidance coming soon!)
 
 Feel free to disregard any or all of the above. The web is everyone's, after all :-)
 
