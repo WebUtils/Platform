@@ -1,0 +1,8 @@
+CACHE MANIFEST
+# Version: 1
+
+CACHE:
+index.html
+
+NETWORK:
+*
