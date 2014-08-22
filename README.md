@@ -16,7 +16,7 @@ You don't need to use the WebUtils platform to build your own app. But it's cool
 
 There is a "quickstart" directory in this project you can use as a template, if you wish. If you would like to use Bootstrap too, then I have previously used [this cut-down configuration](http://getbootstrap.com/customize/?id=254290f9e9656ac38c73) to help with things like buttons and other common reusable components. 
 
-## Philisophy
+## Philosophy
 
 The web platform is [browser features + APIs](http://chris-alexander.co.uk/on-engineering/this-is-also-the-web-platform/). This means leveraging all kinds of browser-based functionality, enhanced with the power of APIs.
 
